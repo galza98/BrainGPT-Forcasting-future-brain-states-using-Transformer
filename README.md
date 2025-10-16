@@ -1,4 +1,4 @@
-# BrainGPT-Forcasting-future-brain-states-using-Transformer
+# BrainGPT: Predicting Ecological Brain States using Transformer
 
 ## Code Description - Brain State Prediction using DSM Method:
 The code in this repository is used to train various models for predicting brain signals using the DSM (Dynamic State Modeling) approach.
